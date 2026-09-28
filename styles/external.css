@@ -1,0 +1,35 @@
+h3{
+    font-style: italic;
+    font-size: 20px;
+    font-weight: 900;
+    text-decoration:line-through;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.second{
+    /*display: none;*/
+    /*visibility: hidden;*/
+}
+
+.blog{
+    box-shadow: 8px 10px 10px orange;
+}
+.change{
+    border: 2px solid orangered;
+    margin: 10px;
+    display: inline-block;
+    height: 20px;
+   
+}
+.head{
+    height: 200px;
+    /*background-image: url(download.jpeg);*/
+    background-image: url('../Images/structure.png');
+    /*background-repeat: no-repeat;*/
+    /*background-repeat: repeat-y;*/
+    /*background-repeat: repeat-x;*/
+    /*background-size: cover;*/
+    background-size: contain;
+    /*background-size: 200px;*/
+}
